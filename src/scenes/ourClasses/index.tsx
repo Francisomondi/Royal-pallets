@@ -26,7 +26,7 @@ const classes: Array<ClassType> = [
     name: "SOFAS",
     description:
 "Sofas are a fundamental piece of furniture that provides comfortable seating and serves as a focal point in living rooms, lounges, or other gathering spaces. " ,
-  image: image3,
+  image: image4,
   },
   {
     name: "DINNING SETS",
