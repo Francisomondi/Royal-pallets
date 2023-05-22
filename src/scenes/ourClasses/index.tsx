@@ -2,8 +2,8 @@ import { SelectedPage, ClassType } from "@/shared/types";
 import image1 from "@/assets/image1.jpg";
 
 //import image3 from "@/assets/image3.jpg";
-import image4 from "@/assets/image4.jpg";
-import image5 from "@/assets/image5.jpg";
+//import image4 from "@/assets/image4.jpg";
+//import image5 from "@/assets/image5.jpg";
 import image6 from "@/assets/image6.webp";
 import { motion } from "framer-motion";
 import HText from "@/shared/HText";
@@ -20,25 +20,25 @@ const classes: Array<ClassType> = [
     name: "BEDROOM FURNITURE",
     description:
     "Quality Bedroom Furniture tailored to fit the available space, desired style, and functional needs, allowing for a highly personalized and cohesive bedroom design. ",
-    image: image4,
+    image: image6,
   },
   {
     name: "SOFAS",
     description:
 "Sofas are a fundamental piece of furniture that provides comfortable seating and serves as a focal point in living rooms, lounges, or other gathering spaces. " ,
-  image: image4,
+  image: image6,
   },
   {
     name: "DINNING SETS",
     description:
       "Dining tables come in various styles, shapes, and sizes to suit different preferences and space requirements, They provide a designated space for meals and gatherings, combining functionality with aesthetic appeal. ",
-    image: image4,
+    image: image6,
   },
   {
     name: "STUDY DESKS",
     description:
     "Study desks designed for studying, working, or engaging in other tasks that require a dedicated workspace. Our designs provide a comfortable and organized area for individuals to focus on their academic or professional pursuits. ",
-    image: image5,
+    image: image6,
   },
   {
     name: "COFFEE TABLE",
