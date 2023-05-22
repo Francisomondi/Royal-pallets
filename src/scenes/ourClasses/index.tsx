@@ -1,6 +1,6 @@
 import { SelectedPage, ClassType } from "@/shared/types";
 import image1 from "@/assets/image1.jpg";
-import image2 from "@/assets/image2.jpg";
+
 import image3 from "@/assets/image3.jpg";
 import image4 from "@/assets/image4.jpg";
 import image5 from "@/assets/image5.jpg";
@@ -20,7 +20,7 @@ const classes: Array<ClassType> = [
     name: "BEDROOM FURNITURE",
     description:
     "Quality Bedroom Furniture tailored to fit the available space, desired style, and functional needs, allowing for a highly personalized and cohesive bedroom design. ",
-    image: image2,
+    image: image3,
   },
   {
     name: "SOFAS",
