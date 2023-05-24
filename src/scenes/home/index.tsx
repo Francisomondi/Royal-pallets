@@ -39,7 +39,7 @@ const Home = ({ setSelectedPage }: Props) => {
           >
             <div className="relative">
               <div className="before:absolute before:-top-20 before:-left-20 before:z-[-1] ">
-                <h2 className="text-xl">Royal Pallets & <br/><br/> Interior Decor</h2>
+                <h2 className="text-xl">Royal Pallets <br/> <br/> & <br/><br/> Interior Decor</h2>
                 
               </div>
             </div>
