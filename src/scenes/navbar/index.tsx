@@ -27,7 +27,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
           <div className={`${flexBetween} w-full gap-16`}>
             {/* LEFT SIDE */}
             
-            <h1 className="text-lg font-pacifico ml-10">Royal pallets  </h1>
+            <h1 className="text-lg font-pacifico ">Royal pallets  </h1>
 
             {/* RIGHT SIDE */}
             {isAboveMediumScreens ? (
@@ -44,7 +44,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
                     setSelectedPage={setSelectedPage}
                   />
                   <Link
-                    page="Our Classes"
+                    page="Our Items"
                     selectedPage={selectedPage}
                     setSelectedPage={setSelectedPage}
                   />
@@ -96,7 +96,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
               setSelectedPage={setSelectedPage}
             />
             <Link
-              page="Our Classes"
+              page="Our Items"
               selectedPage={selectedPage}
               setSelectedPage={setSelectedPage}
             />
